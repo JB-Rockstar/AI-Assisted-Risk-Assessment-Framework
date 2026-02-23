@@ -1,1 +1,1 @@
-# AI-Powered-Vulnerability-Scanner
+# AI Assisted Risk Assessment Framework (NIST aligned)
